@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-2f6e01c376547a3239bb00f516a58513f6894d39.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/okio-1.2.0-d861d4dae61044fc84129eaac0fb14349fb3a677.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-25ba979e0916c3570e20635715fae4705e4ce7b3.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/gson-2.3.1-6455da48073fdf6eb6f1ac7bd5bb51477d3f81b0.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-c6c29d29619aec00ea184dc68d80b77830210488.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a7173047853c87c8310908bde1143f181c9fa4e">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/classes-3a49bf624839a551a3d4fb7d5f4148cda00b4ee8.jar" />
+    </item>
+
+</items>

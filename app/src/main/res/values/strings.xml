@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SStreamer</string>
+    <string name="title_artist_detail">\'s top tracks</string>
+
+
+    <string name="search_artist_hint">Name of the artist to search</string>
+    <string name="searching_text">Searching for artist...</string>
+    <string name="empty_message">There is no artist with that name, try with another one</string>
+    <string name="no_top_tracks">Looks like this artist doesn\'t have top tracks registered</string>
+    <string name="retrieving_for_top_tracks">Retrieving top tracks for this awesome artist</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
