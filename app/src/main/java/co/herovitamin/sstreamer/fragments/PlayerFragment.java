@@ -20,6 +20,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.squareup.picasso.Picasso;
 
@@ -224,6 +225,24 @@ public class PlayerFragment extends DialogFragment implements PlayerCallback{
                 update_track_information(player_service.play_next());
             }
         });
+        song_progress.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+            @Override
+            public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
+                if(fromUser && is_connected_to_service){
+                    player_service.seek_to(progress);
+                }
+            }
+
+            @Override
+            public void onStartTrackingTouch(SeekBar seekBar) {
+
+            }
+
+            @Override
+            public void onStopTrackingTouch(SeekBar seekBar) {
+
+            }
+        });
     }
 
     private void update_track_information(int new_position) {
@@ -249,8 +268,8 @@ public class PlayerFragment extends DialogFragment implements PlayerCallback{
     }
 
     @Override
-    public void set_progress() {
-
+    public void set_progress(int progress) {
+        Toast.makeText(getActivity(), "" + progress, Toast.LENGTH_SHORT).show();
     }
 
     @Override

@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
-        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-2f6e01c376547a3239bb00f516a58513f6894d39.jar" />
-    </item>
-    <item
         jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -16,18 +9,39 @@
         <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/okio-1.2.0-d861d4dae61044fc84129eaac0fb14349fb3a677.jar" />
     </item>
     <item
-        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-25ba979e0916c3570e20635715fae4705e4ce7b3.jar" />
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-2f6e01c376547a3239bb00f516a58513f6894d39.jar" />
     </item>
     <item
-        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/gson-2.3.1-6455da48073fdf6eb6f1ac7bd5bb51477d3f81b0.jar" />
+        sha1="4a7173047853c87c8310908bde1143f181c9fa4e">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/classes-3a49bf624839a551a3d4fb7d5f4148cda00b4ee8.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-71dc02803897e331e99d78d59597abcffdff41a6.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/classes-7fc8316b6546be48ac4594514a810640a8490b6a.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-d913238bc8bfcea7c63112757a4f82e111007bb8.jar" />
     </item>
     <item
         jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
@@ -37,11 +51,39 @@
         <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-c6c29d29619aec00ea184dc68d80b77830210488.jar" />
     </item>
     <item
-        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/jars/classes.jar"
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="4a7173047853c87c8310908bde1143f181c9fa4e">
-        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/classes-3a49bf624839a551a3d4fb7d5f4148cda00b4ee8.jar" />
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/gson-2.3.1-6455da48073fdf6eb6f1ac7bd5bb51477d3f81b0.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-25ba979e0916c3570e20635715fae4705e4ce7b3.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/classes-a99f64ddba0ffd31014184c23b59b90662410f8a.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/classes-c2c2e28a62e14c077379e6a98095f35cffa01f49.jar" />
+    </item>
+    <item
+        jar="/Users/kerry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/kerry/AndroidStudioProjects/NanoDegree/SStreamer/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-ba21e9c81a312b645634492b0fd60684affaf749.jar" />
     </item>
 
 </items>

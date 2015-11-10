@@ -21,7 +21,8 @@ import co.herovitamin.sstreamer.models.MyMiniTrack;
 public class PlayerService extends Service implements
         MediaPlayer.OnPreparedListener,
         MediaPlayer.OnCompletionListener,
-        MediaPlayer.OnErrorListener{
+        MediaPlayer.OnErrorListener,
+        MediaPlayer.OnSeekCompleteListener{
 
     ArrayList<MyMiniTrack> top_tracks;
     int current_position;
@@ -177,6 +178,19 @@ public class PlayerService extends Service implements
     @Override
     public boolean onError(MediaPlayer mp, int what, int extra) {
         return false;
+    }
+
+    @Override
+    public void onSeekComplete(MediaPlayer mp) {
+        if(fragment != null){
+            fragment.set_progress(mp.getCurrentPosition());
+        }
+    }
+
+    public void seek_to(int progress) {
+        if(media_player != null){
+            media_player.seekTo(progress);
+        }
     }
 
     public class MusicBinder extends Binder{

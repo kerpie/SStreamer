@@ -5,7 +5,7 @@ package co.herovitamin.sstreamer.interfaces;
  */
 public interface PlayerCallback {
 
-    void set_progress();
+    void set_progress(int position);
     void start_playing(int position);
 
 }
